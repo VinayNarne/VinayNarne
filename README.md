@@ -16,6 +16,7 @@ I design the systems and build them with AI coding assistants such as GitHub Cop
 - **Lead research tool for an electrical contractor:** collects nearby businesses from 14 data sources and writes a short sales brief for each. [Case study](https://github.com/VinayNarne/case-study-lead-finder)
 - **ServiceNow AI agent:** lets IT staff search and update tickets in plain English. [Repo](https://github.com/VinayNarne/service-now-langchain)
 - **Voice agent on Azure Realtime:** a voice assistant with a local knowledge base and tests. [Repo](https://github.com/VinayNarne/Voice-agent)
+- **Economics MCP server:** joins three public data sources and flags data quality issues. [Repo](https://github.com/VinayNarne/Economics-MCP)
 
 ## Links
 
